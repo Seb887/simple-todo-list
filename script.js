@@ -6,10 +6,10 @@ let todoItems = [
   { id: 1694376860080, text: 'task1', completed: false },
   { id: 1694376860081, text: 'task2', completed: false },
   { id: 1694376860082, text: 'task3', completed: false },
-  { id: 1694376860082, text: 'task4', completed: true },
-  { id: 1694376860082, text: 'task4', completed: true },
-  { id: 1694376860082, text: 'task4', completed: true },
-  { id: 1694376860082, text: 'task4', completed: true },
+  { id: 1694376860083, text: 'task4', completed: true },
+  { id: 1694376860084, text: 'task5', completed: true },
+  { id: 1694376860085, text: 'task6', completed: true },
+  { id: 1694376860086, text: 'task7', completed: true },
   // { id: 1694376860083, text: 'taskcomplete', completed: true },
 ];
 const newTodo = document.querySelector('.newTodo');
